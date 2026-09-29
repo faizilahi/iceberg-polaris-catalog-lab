@@ -1,0 +1,8 @@
+{
+  "table": "hf.census_fact",
+  "format": "iceberg-standin",
+  "current_snapshot_id": 3,
+  "current_schema_id": 2,
+  "location": "C:\\Users\\faizi\\OneDrive\\Desktop\\resume\\cursor ai resumes\\github-portfolio\\iceberg-polaris-catalog-lab\\warehouse\\hf\\census_fact",
+  "catalog_note": "REST catalog stand-in (Polaris-style) \u2014 local files only"
+}

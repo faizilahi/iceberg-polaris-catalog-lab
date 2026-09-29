@@ -1,0 +1,57 @@
+{
+  "current_schema_id": 2,
+  "schemas": [
+    {
+      "schema-id": 1,
+      "fields": [
+        {
+          "id": 1,
+          "name": "census_date",
+          "type": "date",
+          "required": true
+        },
+        {
+          "id": 2,
+          "name": "facility_id",
+          "type": "string",
+          "required": true
+        },
+        {
+          "id": 3,
+          "name": "census_count",
+          "type": "int",
+          "required": true
+        }
+      ]
+    },
+    {
+      "schema-id": 2,
+      "fields": [
+        {
+          "id": 1,
+          "name": "census_date",
+          "type": "date",
+          "required": true
+        },
+        {
+          "id": 2,
+          "name": "facility_id",
+          "type": "string",
+          "required": true
+        },
+        {
+          "id": 3,
+          "name": "census_count",
+          "type": "int",
+          "required": true
+        },
+        {
+          "id": 4,
+          "name": "acuity_band",
+          "type": "string",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

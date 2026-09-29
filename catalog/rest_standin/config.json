@@ -1,0 +1,10 @@
+{
+  "defaults": {
+    "warehouse": "warehouse",
+    "catalog-type": "rest-standin"
+  },
+  "overrides": {
+    "prefix": "hf-lab"
+  },
+  "note": "Local stand-in for Polaris/Iceberg REST catalog \u2014 not a live server"
+}
